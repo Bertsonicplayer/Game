@@ -1,0 +1,38 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindGLEW.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake
+C:/Users/amina/Downloads/Game/CMakeFiles/3.28.1/CMakeCCompiler.cmake
+C:/Users/amina/Downloads/Game/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake
+C:/Users/amina/Downloads/Game/CMakeFiles/3.28.1/CMakeRCCompiler.cmake
+C:/Users/amina/Downloads/Game/CMakeFiles/3.28.1/CMakeSystem.cmake
+C:/Users/amina/Downloads/Game/CMakeLists.txt
+C:/msys64/mingw64/lib/cmake/glew/CopyImportedTargetProperties.cmake
+C:/msys64/mingw64/lib/cmake/glew/glew-config.cmake
+C:/msys64/mingw64/lib/cmake/glew/glew-targets-release.cmake
+C:/msys64/mingw64/lib/cmake/glew/glew-targets.cmake
+C:/msys64/mingw64/lib/cmake/glfw3/glfw3Config.cmake
+C:/msys64/mingw64/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+C:/msys64/mingw64/lib/cmake/glfw3/glfw3Targets-release.cmake
+C:/msys64/mingw64/lib/cmake/glfw3/glfw3Targets.cmake

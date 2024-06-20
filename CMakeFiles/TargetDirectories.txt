@@ -1,0 +1,3 @@
+C:/Users/amina/Downloads/Game/CMakeFiles/Gametest.dir
+C:/Users/amina/Downloads/Game/CMakeFiles/ALL_BUILD.dir
+C:/Users/amina/Downloads/Game/CMakeFiles/ZERO_CHECK.dir
