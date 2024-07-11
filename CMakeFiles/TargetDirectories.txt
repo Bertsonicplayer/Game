@@ -1,0 +1,6 @@
+C:/Users/amina/Downloads/Game/CMakeFiles/Gametest.dir
+C:/Users/amina/Downloads/Game/CMakeFiles/edit_cache.dir
+C:/Users/amina/Downloads/Game/CMakeFiles/rebuild_cache.dir
+C:/Users/amina/Downloads/Game/src/glad/CMakeFiles/glad.dir
+C:/Users/amina/Downloads/Game/src/glad/CMakeFiles/edit_cache.dir
+C:/Users/amina/Downloads/Game/src/glad/CMakeFiles/rebuild_cache.dir
