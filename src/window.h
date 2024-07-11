@@ -44,7 +44,7 @@ void window()
     }
     int height, width;
     int channels;
-    unsigned char *pixels = stbi_load("C:/Users/amina/Downloads/Game/game.png", &width, &height, &channels, 4);
+    unsigned char *pixels = stbi_load("Game/game.png", &width, &height, &channels, 4);
     //setting a window icon.
     GLFWimage images[1];
     images[0].width = width;

@@ -14,7 +14,6 @@
 		"commands" : 
 		[
 			"add_executable",
-			"target_link_options",
 			"target_link_libraries"
 		],
 		"files" : 
@@ -35,12 +34,6 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 18,
-				"parent" : 0
-			},
-			{
-				"command" : 2,
-				"file" : 0,
 				"line" : 13,
 				"parent" : 0
 			}
@@ -52,11 +45,11 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 3,
+					"backtrace" : 2,
 					"path" : "C:/Users/amina/Downloads/Game/src/glfw/include"
 				},
 				{
-					"backtrace" : 3,
+					"backtrace" : 2,
 					"path" : "C:/Users/amina/Downloads/Game/src/glad/src/glad"
 				}
 			],
@@ -71,11 +64,11 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 3,
+			"backtrace" : 2,
 			"id" : "glad::@626ca26c3704e7a7fbd4"
 		},
 		{
-			"backtrace" : 3,
+			"backtrace" : 2,
 			"id" : "glfw::@d52d6adad5a670cd1786"
 		}
 	],
@@ -90,26 +83,21 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-mwindows",
-				"role" : "flags"
-			},
-			{
-				"backtrace" : 3,
 				"fragment" : "src/glfw/src/libglfw3.a",
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 3,
+				"backtrace" : 2,
 				"fragment" : "src/glad/libglad.a",
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 3,
+				"backtrace" : 2,
 				"fragment" : "-lopengl32",
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 3,
+				"backtrace" : 2,
 				"fragment" : "-lglu32",
 				"role" : "libraries"
 			},
