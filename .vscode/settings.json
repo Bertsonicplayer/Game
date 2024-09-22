@@ -21,7 +21,9 @@
         "wincon.h": "c",
         "string.h": "c",
         "stdlib.h": "c",
-        "stb_image.h": "c"
+        "stb_image.h": "c",
+        "new": "c",
+        "typeinfo": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }

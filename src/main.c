@@ -8,8 +8,6 @@
 //goal here is to render something.
 int main()
 {
-triangle();
-window();
-
+    window();
     return 0;
 }

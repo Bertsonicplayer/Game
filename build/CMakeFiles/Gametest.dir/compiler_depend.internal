@@ -35,16 +35,16 @@ CMakeFiles/Gametest.dir/src/main.c.obj
  C:/msys64/mingw64/include/string.h
  C:/msys64/mingw64/include/swprintf.inl
  C:/msys64/mingw64/include/vadefs.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/emmintrin.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mmintrin.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/xmmintrin.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/emmintrin.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/limits.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mm_malloc.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mmintrin.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdbool.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/syslimits.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/xmmintrin.h
 
 CMakeFiles/Gametest.dir/src/triangle.c.obj
  C:/Users/amina/Downloads/Game/src/triangle.c
@@ -69,6 +69,6 @@ CMakeFiles/Gametest.dir/src/triangle.c.obj
  C:/msys64/mingw64/include/string.h
  C:/msys64/mingw64/include/swprintf.inl
  C:/msys64/mingw64/include/vadefs.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h
 

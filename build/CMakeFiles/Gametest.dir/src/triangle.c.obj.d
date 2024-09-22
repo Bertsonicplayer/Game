@@ -16,8 +16,8 @@ CMakeFiles/Gametest.dir/src/triangle.c.obj: \
  C:/msys64/mingw64/include/math.h \
  C:/Users/amina/Downloads/Game/src/glad/include/glad/glad.h \
  C:/msys64/mingw64/include/KHR/khrplatform.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
  C:/msys64/mingw64/include/stdint.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
  C:/msys64/mingw64/include/stddef.h \
  C:/Users/amina/Downloads/Game/src/glfw/include/GLFW/glfw3.h

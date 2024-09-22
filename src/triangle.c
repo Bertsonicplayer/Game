@@ -10,5 +10,5 @@ void triangle()
     
 
 
-return 0;
+return;
 }
